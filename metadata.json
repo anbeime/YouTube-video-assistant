@@ -1,0 +1,5 @@
+{
+  "name": "VidSumm AI - YouTube Assistant",
+  "description": "An intelligent study assistant that analyzes videos or audio files to provide structured, timestamped summaries in Chinese using Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
